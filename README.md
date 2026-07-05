@@ -33,5 +33,3 @@ Space complexity: O(n)
 Run the following commands in order:
 ```bash
 make
-
----
